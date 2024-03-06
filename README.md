@@ -1,1 +1,2 @@
 # Turtle-Race
+"I designed and developed a Turtle Race game using Python's Turtle module, showcasing my proficiency in graphical application development. Utilizing Python's Turtle graphics capabilities, I implemented the game's mechanics, including turtle movement, race logic, and winner determination. Through this project, I demonstrated my skills in Python programming and graphical user interface (GUI) development, as well as my ability to create interactive and engaging applications.
